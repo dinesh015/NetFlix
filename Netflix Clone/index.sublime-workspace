@@ -1,0 +1,219 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"cont",
+				"Contact"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Portfolios/Netflix Clone/style.css",
+		"/C/Users/welcome/Desktop/netflix.css",
+		"/D/Portfolios/Netflix Clone/index.html",
+		"/D/Portfolios/Source code/slider/index.html",
+		"/D/Portfolios/Source code/slider/style.css",
+		"/C/Users/welcome/Desktop/New folder/netflix.css",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/RegistrationForm/Style.css",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/RegistrationForm/Registration.html",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Signin/signin.html",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Signin/signin.js",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Signin/style.css",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Signin/sigin.html",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Facebook/fb.html",
+		"/C/Users/welcome/Desktop/Inmakes Frontend Tasks/Facebook/style.css",
+		"/C/Users/welcome/Desktop/Basic Html/demo..html",
+		"/C/Users/welcome/Downloads/CT_SkillTest_v3.psd",
+		"/C/Users/welcome/Documents/demo.html",
+		"/D/Portfolio2/clark-master/clark-master/index.html",
+		"/C/Users/welcome/Downloads/The Double Equality Sign - Exercise_Py3.ipynb",
+		"/C/Users/welcome/Downloads/Arithmetic Operators - Exercise_Py3 (1).ipynb",
+		"/C/Users/welcome/Downloads/conditionstatements.ipynb",
+		"/C/Users/welcome/Downloads/For_Loops (1).ipynb",
+		"/C/Users/welcome/Downloads/Datatypes (1).ipynb",
+		"/C/Users/welcome/Downloads/Logical_and_Identity_Operators.ipynb",
+		"/C/Users/welcome/Downloads/Comparison_Operators_07_08.ipynb",
+		"/C/Users/welcome/Downloads/String_Operations.ipynb",
+		"/C/Users/welcome/Downloads/datastructure_part1.ipynb",
+		"/C/Users/welcome/Downloads/datastructure_part1 (1).ipynb",
+		"/C/Users/welcome/Downloads/numpy.ipynb",
+		"/C/Users/welcome/Downloads/pandas__practice (1).ipynb",
+		"/C/Users/welcome/Downloads/Reassign Values - Exercise_Py3.ipynb",
+		"/C/Users/welcome/Downloads/Strings - Exercise_Py3.ipynb",
+		"/D/Dinesh Resume Port2/Marvel Free Website Template - Free-CSS.com/2115_marvel/index.html",
+		"/C/Users/welcome/AppData/Local/Temp/0fba21a4-1daa-46f2-946b-133b1eafe797_Personal.zip.797/Personal/index.html",
+		"/C/Users/welcome/AppData/Local/Temp/e4aea5bc-a619-4e5a-9fe4-6e16dfe6264f_Personal.zip.64f/Personal/assets/css/style.css",
+		"/C/Users/welcome/AppData/Local/Temp/b409b49e-6df4-4feb-814c-26729f9732a1_Personal.zip.2a1/Personal/portfolio-details.html",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/contact.html",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/community.html",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/index.html",
+		"/D/Dinesh Services/Initio Free Website Template - Free-CSS.com/Initio/assets/css/styles.css",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/single-blog.html",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/categories.html",
+		"/D/Gaming Website/game-warrior-gh-pages/game-warrior-gh-pages/review.html",
+		"/D/Dinesh Services/Initio Free Website Template - Free-CSS.com/Initio/index.html",
+		"/D/Dinesh Services/Initio Free Website Template - Free-CSS.com/Initio/assets/js/html5shiv.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
